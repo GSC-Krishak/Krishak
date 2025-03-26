@@ -1,0 +1,9 @@
+[submodule "Krishak-MachineLearning"]
+	path = Krishak-MachineLearning
+	url = https://github.com/GSC-Krishak/Krishak-MachineLearning
+[submodule "krishak-Frontend"]
+	path = krishak-Frontend
+	url = https://github.com/GSC-Krishak/Krishak-Frontend
+[submodule "Krishak-Backend"]
+	path = Krishak-Backend
+	url = https://github.com/GSC-Krishak/Krishak-Backend
